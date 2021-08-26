@@ -5,3 +5,4 @@ Repositório criado em uma aula
 
 Agora fiz mudanças no próprio git remotamente. 
 Muito bom mesmo. 
+Estou fazendo agora uma mudança 
